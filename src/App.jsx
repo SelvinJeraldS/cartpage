@@ -59,7 +59,7 @@ const App = () => {
     },
     {
         "id": 4,
-        "title": "OPPOF19",
+        "title": "OPPO F19",
         "description": "OPPO F19 is officially announced on April 2021.",
         "price": 280,
         "discountPercentage": 17.91,
